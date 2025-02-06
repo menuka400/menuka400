@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Menaka Hashen Jayasurya 🌟, currently pursuing an internship as a Machine Learning Developer at Spera Labs 🤖. I'm passionate about exploring the exciting world of AI and ML 🚀, always eager to learn and grow in this dynamic field! 🌐✨
+Hi, I'm Menaka Hashen Jayasurya 🌟, currently pursuing an internship as an AI Engineer at Spera Labs 🤖. I have completed my Machine Learning Developer internship at Spera Labs. I'm passionate about exploring the exciting world of AI and ML 🚀, always eager to learn and grow in this dynamic field! 🌐✨
 
 
 ## 🌐 Socials:
