@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyN3c0YjY4dm1pamZ6dWhyanI3b3FlamVvd3kzajJtMWRqcWN2ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NoP8cgPRZJOXIrs1gx/giphy.gif" width="700">
 </div>
 
 <div align="center">
@@ -50,9 +50,7 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFjdHY0aXc3ZnA2dzRra3I3YWpmZWk1djl3b2c0N3ljNGhtZXgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/uqLHogKfKSLkopGGIa/giphy.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
