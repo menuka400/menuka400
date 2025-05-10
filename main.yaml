@@ -1,4 +1,4 @@
-name: generate pacman game
+name: Generate Pacman Contribution Graph
 
 on:
   schedule: # Run automatically every 24 hours
@@ -14,15 +14,15 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
+    
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+      
       # Push the generated SVG to the output branch
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push Pacman Contribution Graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
