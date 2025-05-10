@@ -111,13 +111,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 💾 AI Stack
-![chatgpt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q1bnJqaTE4eHNwazJlZ2FnZTRybmVxaGUwaXNyMWFrOXV5ZjlteCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UxWpytvw9oVCGuoNeb/giphy.gif)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 </div>
 
 <div align="center">
