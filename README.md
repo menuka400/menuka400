@@ -145,13 +145,11 @@
 ## <div align="center">🐍 Contribution Snake <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251ZW9pMHA3czVvOWMyMG9rNTM2MW0zbnVvMWIyMm1xanNuZmpuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqmZadQYDB4GhOJzMg/giphy.gif" width="10"></div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menuka400/menuka400/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menuka400/menuka400/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/menuka400/menuka400/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menuka400/menuka400/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menuka400/menuka400/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/menuka400/menuka400/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></div>
