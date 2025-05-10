@@ -221,6 +221,10 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=menuka400&style=flat-square&color=blueviolet" alt="Profile Views">
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215768921-0a16e063-7e24-4dc9-93ed-26c12a969fb3.gif" width="600">
 </div>
 
