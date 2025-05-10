@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZlY3RmOGRzZTY2M3o3NWlycTFmZmhlN2dyY3Zscms4cm81eG41NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jWkHARwh16KT4Wbwwq/giphy.gif" width="70">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFjdHY0aXc3ZnA2dzRra3I3YWpmZWk1djl3b2c0N3ljNGhtZXgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/uqLHogKfKSLkopGGIa/giphy.gif" width="70">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
