@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZtNGtuaTI1cXdwbW80cmsyc28zZm1ycWFhYzRtaDllcjM2ZzlmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EAqR5JEdM1zASV0z0G/giphy.gif" width="500">
 </div>
-## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
+<div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
 
 - 🔭 **Currently:** AI Engineer Intern at **Spera Labs** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 - 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs**
