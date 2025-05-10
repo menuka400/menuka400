@@ -187,7 +187,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="600">
+  <img src="https://media.giphy.com/media/3gSd4IfkC0jBJ2rjNe/giphy.gif?cid=ecf05e478jn434a7ta6s7v3dxwj6jtwnqss6k9njw3ex4m5t&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="350">
 </div>
 
 ## <div align="center">💭 Daily Dev Quote <img src="https://media.giphy.com/media/fUwmOPFUVvpVf9FMcO/giphy.gif" width="20"></div>
