@@ -221,7 +221,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y0N2d5YnMxb3NiNnQzdW9qN2VrbzZyOTFkanhpeTcyMWZ0MmdtbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/S3KLtgJj1xKhGoEmSk/giphy.gif" height="150">
+  <img src="https://media.giphy.com/media/6QX4DXxRmolGkxiiyA/giphy.gif?cid=ecf05e47vcntz9ccl3vofzxzp4itcsnlttssw2erioxb3u1n&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="150">
 </div>
 
 <div align="center">
