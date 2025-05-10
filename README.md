@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZtNGtuaTI1cXdwbW80cmsyc28zZm1ycWFhYzRtaDllcjM2ZzlmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EAqR5JEdM1zASV0z0G/giphy.gif" width="500">
+  <img src="" width="500">
 </div>
 
 <div align="center">
@@ -13,10 +13,6 @@
 </div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
-
-<div align="center">
-  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
 
 - 🔭 **Currently:** AI Engineer Intern at **Spera Labs** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 - 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs**
@@ -28,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZtNGtuaTI1cXdwbW80cmsyc28zZm1ycWFhYzRtaDllcjM2ZzlmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EAqR5JEdM1zASV0z0G/giphy.gif" width="600">
 </div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack</div>
