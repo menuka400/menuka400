@@ -142,7 +142,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
 </div>
 
-## <div align="center">🐍 Contribution Snake <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251ZW9pMHA3czVvOWMyMG9rNTM2MW0zbnVvMWIyMm1xanNuZmpuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqmZadQYDB4GhOJzMg/giphy.gif" width="10"></div>
+## <div align="center">🐍 Pac-Man Contribution <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251ZW9pMHA3czVvOWMyMG9rNTM2MW0zbnVvMWIyMm1xanNuZmpuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqmZadQYDB4GhOJzMg/giphy.gif" width="10"></div>
 
 <div align="center">
 <picture>
@@ -152,10 +152,6 @@
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-</div>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdhYm03YnJobXpya3gyN3Q5bXF3MzR3MXNmdTJ5bjdyb202dno1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mPjZuIu5JWQPWfYHF/giphy.gif" width="350">
 </div>
 
 ## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></div>
