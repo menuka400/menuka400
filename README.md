@@ -5,58 +5,54 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="700">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width="500">
 </div>
+
+## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100%">
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50"></div>
-
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
-- 🔭 **Currently:** AI Engineer Intern at **Spera Labs** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs** <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="20">
-- ⚡ **Passionate:** About exploring the exciting world of AI and ML <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="25">
-- 🚀 **Always:** Eager to learn and grow in this dynamic field! <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25">
-- 🧠 **Skills:** Deep Learning, Data Science, Computer Vision <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="25">
-- 🎮 **Hobbies:** Gaming, Tech Exploration, Coding <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25">
+- 🔭 **Currently:** AI Engineer Intern at **Spera Labs** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
+- 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs**
+- ⚡ **Passionate:** About exploring the exciting world of AI and ML
+- 🚀 **Always:** Eager to learn and grow in this dynamic field!
+- 🧠 **Skills:** Deep Learning, Data Science, Computer Vision
+- 🎮 **Hobbies:** Gaming, Tech Exploration, Coding
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
 </div>
 
-## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"></div>
+## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="250">
 </div>
 
 <div align="center">
   
 ### 🔥 Programming & Languages
 <div align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -76,7 +72,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212508045-e9da1104-447b-4cb1-8b86-8e1796953cf7.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212508045-e9da1104-447b-4cb1-8b86-8e1796953cf7.gif" width="300">
 </div>
 
 <!-- Data Science Tools -->
@@ -111,7 +107,7 @@
 
 ### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 </div>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -128,14 +124,10 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746876-d59aef92-2828-4da5-8d6d-e8bdecd83bb8.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212746876-d59aef92-2828-4da5-8d6d-e8bdecd83bb8.gif" width="400">
 </div>
 
-## <div align="center">📊 My GitHub Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"></div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</div>
+## <div align="center">📊 My GitHub Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"></div>
 <br>
 
 <p align="center">
@@ -152,20 +144,20 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533199cd2.gif" width="60%">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533199cd2.gif" width="450">
 </div>
 
-## <div align="center">🔣 Programming Languages <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></div>
+## <div align="center">🔣 Programming Languages <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menuka400&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
 </div>
 
-## <div align="center">🐍 Contribution Snake <img src="https://media.giphy.com/media/yvPbOJLtpP9dLlGgOB/giphy.gif" width="35"></div>
+## <div align="center">🐍 Contribution Snake <img src="https://media.giphy.com/media/yvPbOJLtpP9dLlGgOB/giphy.gif" width="20"></div>
 
 <div align="center">
   <picture>
@@ -176,13 +168,13 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="450">
 </div>
 
-## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></div>
+## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150">
 </div>
 
 <p align="center">
@@ -205,23 +197,23 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="600">
 </div>
 
-## <div align="center">💭 Daily Dev Quote <img src="https://media.giphy.com/media/fUwmOPFUVvpVf9FMcO/giphy.gif" width="35"></div>
+## <div align="center">💭 Daily Dev Quote <img src="https://media.giphy.com/media/fUwmOPFUVvpVf9FMcO/giphy.gif" width="20"></div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8570d-6113-4efd-9ec0-3b6e4967cf84.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8570d-6113-4efd-9ec0-3b6e4967cf84.gif" width="200">
 </div>
 
-## <div align="center">🎮 Gaming Profile <img src="https://media.giphy.com/media/THlB4bsoSA0Cc/giphy.gif" width="50"></div>
+## <div align="center">🎮 Gaming Profile <img src="https://media.giphy.com/media/THlB4bsoSA0Cc/giphy.gif" width="25"></div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjHYlwvUK5p9AIbm/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3oEjHYlwvUK5p9AIbm/giphy.gif" width="250">
 </div>
 
 <p align="center">
@@ -234,10 +226,10 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="350">
 </div>
 
-## <div align="center">🕹️ Profile Visitors <img src="https://media.giphy.com/media/Y0DZ7Vl51PcTeisgVn/giphy.gif" width="35"></div>
+## <div align="center">🕹️ Profile Visitors <img src="https://media.giphy.com/media/Y0DZ7Vl51PcTeisgVn/giphy.gif" width="20"></div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/menuka400/count.svg" alt="Visitor Count">
@@ -248,10 +240,10 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215768921-0a16e063-7e24-4dc9-93ed-26c12a969fb3.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/215768921-0a16e063-7e24-4dc9-93ed-26c12a969fb3.gif" width="600">
 </div>
 
-## <div align="center">💰 Support My Work <img src="https://media.giphy.com/media/LmN8OYiY3RJjd4qdpU/giphy.gif" width="35"></div>
+## <div align="center">💰 Support My Work <img src="https://media.giphy.com/media/LmN8OYiY3RJjd4qdpU/giphy.gif" width="20"></div>
 
 <div align="center">
   <a href="https://buymeacoffee.com/menuka400f" target="_blank">
@@ -260,7 +252,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="250">
 </div>
 
 <div align="center">
