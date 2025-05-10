@@ -224,7 +224,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/215768921-0a16e063-7e24-4dc9-93ed-26c12a969fb3.gif" width="600">
 </div>
 
-## <div align="center">💰 Support My Work <img src="https://media.giphy.com/media/LmN8OYiY3RJjd4qdpU/giphy.gif" width="20"></div>
+## <div align="center">💰 Support My Work <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZtZjhra2dpamhuYWduYWVleGtmeWlvcnR2aGxkMXVzbWVkbXQ3aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Wxng6XGLT1P2nj7fy8/giphy.gif" width="20"></div>
 
 <div align="center">
   <a href="https://buymeacoffee.com/menuka400f" target="_blank">
