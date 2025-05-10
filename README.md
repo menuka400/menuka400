@@ -44,6 +44,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFjdHY0aXc3ZnA2dzRra3I3YWpmZWk1djl3b2c0N3ljNGhtZXgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/uqLHogKfKSLkopGGIa/giphy.gif" width="70">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
   <img src="https://media.giphy.com/media/lRNinuXDDLgR7Oe8LY/giphy.gif?cid=ecf05e47ukje6epyaaupe6ulmjkjbdcjuwg2ramhuuqygnv1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93ZGxyYjByYjdsd3V6MmRuMTZxNDgxd3htY2xtdHMzdzN0eTlobSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sbrqfuotRaQefJCQ4p/giphy.gif" width="70">
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
