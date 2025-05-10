@@ -158,7 +158,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="450">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhubm41MWJ2bHQ4ZTNpZmpiNW55dzdsNmdwd2J1MTloemVnZ3ZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U23dlbFKkJtc8zekJZ/giphy.gif" width="350">
 </div>
 
 ## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></div>
