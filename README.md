@@ -190,7 +190,7 @@
   <img src="https://media.giphy.com/media/3gSd4IfkC0jBJ2rjNe/giphy.gif?cid=ecf05e478jn434a7ta6s7v3dxwj6jtwnqss6k9njw3ex4m5t&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="350">
 </div>
 
-## <div align="center"><img src="<img src="https://media.giphy.com/media/fUwmOPFUVvpVf9FMcO/giphy.gif" width="20"></div>" width="20"></div> Daily Dev Quote <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlpcGVibXdhajFuaGlkeW93aW9iNWF0cThqcTYwb3VqeWJrbW1xbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/tgsigLDO7znBCiiOcO/giphy.gif" width="20"></div>
+## <div align="center">💭 Daily Dev Quote</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
