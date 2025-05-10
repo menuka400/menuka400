@@ -147,7 +147,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
 </div>
 
-## <div align="center">🐍 Contribution Snake <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251ZW9pMHA3czVvOWMyMG9rNTM2MW0zbnVvMWIyMm1xanNuZmpuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqmZadQYDB4GhOJzMg/giphy.gif" width="20"></div>
+## <div align="center">🐍 Contribution Snake <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251ZW9pMHA3czVvOWMyMG9rNTM2MW0zbnVvMWIyMm1xanNuZmpuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqmZadQYDB4GhOJzMg/giphy.gif" width="10"></div>
 
 <div align="center">
   <picture>
