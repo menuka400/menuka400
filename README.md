@@ -158,7 +158,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhubm41MWJ2bHQ4ZTNpZmpiNW55dzdsNmdwd2J1MTloemVnZ3ZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U23dlbFKkJtc8zekJZ/giphy.gif" width="350">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdhYm03YnJobXpya3gyN3Q5bXF3MzR3MXNmdTJ5bjdyb202dno1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mPjZuIu5JWQPWfYHF/giphy.gif" width="350">
 </div>
 
 ## <div align="center">🌐 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></div>
