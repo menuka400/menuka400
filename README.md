@@ -238,7 +238,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRsbzBuNmlkMHEwYm53dXZlNTI5MTY5MHphZXpyNWJwbTk2NDJtNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2YEFsPpBx9bdqftKpk/giphy.gif" width="250">
 </div>
 
 <div align="center">
