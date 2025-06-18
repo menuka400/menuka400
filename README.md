@@ -1,4 +1,4 @@
-# <div align="center">✨ Menaka Hashen Jayasurya ✨</div>
+# <div align="center">✨ Menuka Hashen Jayasurya ✨</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Wizard+%F0%9F%94%AE;Data+Science+Enthusiast+%F0%9F%93%8A;Passionate+Coder+%F0%9F%92%BB;Gaming+Lover+%F0%9F%8E%AE;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
