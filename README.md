@@ -10,7 +10,6 @@
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
 
-- 🔭 **Currently:** AI Engineer Intern at **Spera Labs** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 - 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs**
 - ⚡ **Passionate:** About exploring the exciting world of AI and ML
 - 🚀 **Always:** Eager to learn and grow in this dynamic field!
