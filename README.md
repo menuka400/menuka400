@@ -10,7 +10,7 @@
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
 
-- 🌱 **Previously:** Machine Learning Developer Intern at **Spera Labs**
+- 🌱 **Previously:** Machine Learning Developer Intern and AI Engineer Intern at **Spera Labs**
 - ⚡ **Passionate:** About exploring the exciting world of AI and ML
 - 🚀 **Always:** Eager to learn and grow in this dynamic field!
 - 🧠 **Skills:** Deep Learning, Data Science, Computer Vision
