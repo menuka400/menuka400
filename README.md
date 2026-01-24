@@ -141,7 +141,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
 <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Embedded Linux"/>
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython"/>
 <img src="https://img.shields.io/badge/FreeRTOS-239120?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
 </p>
 
