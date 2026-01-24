@@ -1,7 +1,7 @@
 # <div align="center">✨ Menuka Hashen Jayasurya ✨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Wizard+%F0%9F%94%AE;Data+Science+Enthusiast+%F0%9F%93%8A;Passionate+Coder+%F0%9F%92%BB;Gaming+Lover+%F0%9F%8E%AE;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;AI+%26+Machine+Learning+Expert+%F0%9F%A4%96;Deep+Learning+Engineer+%F0%9F%A7%A0;IoT+Solutions+Architect+%F0%9F%8C%90;Data+Science+Enthusiast+%F0%9F%93%8A;Edge+AI+Developer+%F0%9F%9A%80;Tech+Innovation+Seeker+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,11 +10,15 @@
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</div>
 
+- 🔧 **Expertise:** Embedded Systems Engineer with strong **Computer Vision** background
 - 🌱 **Previously:** Machine Learning Developer Intern and AI Engineer Intern at **Spera Labs**
-- ⚡ **Passionate:** About exploring the exciting world of AI and ML
-- 🚀 **Always:** Eager to learn and grow in this dynamic field!
-- 🧠 **Skills:** Deep Learning, Data Science, Computer Vision
-- 🎮 **Hobbies:** Gaming, Tech Exploration, Coding
+- 🤖 **Specialization:** AI, Machine Learning & Deep Learning for embedded platforms
+- 🌐 **IoT Enthusiast:** Building intelligent edge devices and IoT solutions
+- 👁️ **Core Strength:** Real-time Computer Vision systems and Edge AI deployment
+- ⚡ **Passionate:** About bridging hardware and AI to create innovative solutions
+- 🚀 **Always:** Pushing boundaries in embedded AI and smart systems!
+- 🧠 **Skills:** Deep Learning, Computer Vision, IoT Architecture, Embedded AI
+- 🎮 **Hobbies:** Gaming, Tech Exploration, Hardware Tinkering, Coding
 
 <br>
 
@@ -47,6 +51,10 @@
 </div>
 
 ### 🧠 AI & ML
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
 <!-- Core ML Frameworks -->
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
@@ -70,9 +78,16 @@
 <!-- Computer Vision & NLP -->
 <p align="center">
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Detectron2-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Hugging%20Face-FFB200?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
 <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+<img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PIL"/>
 </p>
 
 <!-- MLOps & Deployment -->
@@ -87,6 +102,32 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### 🔧 Embedded Systems & IoT
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="280">
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia Jetson"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+<img src="https://img.shields.io/badge/Edge%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Edge AI"/>
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+<img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Embedded Linux"/>
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython"/>
+<img src="https://img.shields.io/badge/FreeRTOS-239120?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
 </p>
 
 ### ☁️ Cloud & DevOps
