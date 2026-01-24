@@ -29,10 +29,6 @@
 ## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="250">
-</div>
-
-<div align="center">
   
 ### 🔥 Programming & Languages
 <div align="center">
