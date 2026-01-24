@@ -259,10 +259,6 @@
 ## <div align="center">🕹️ Profile Visitors <img src="https://media.giphy.com/media/Y0DZ7Vl51PcTeisgVn/giphy.gif" width="20"></div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/menuka400/count.svg" alt="Visitor Count">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=menuka400&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
 
