@@ -40,14 +40,29 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
 </div>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFjdHY0aXc3ZnA2dzRra3I3YWpmZWk1djl3b2c0N3ljNGhtZXgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/uqLHogKfKSLkopGGIa/giphy.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-  <img src="https://media.giphy.com/media/lRNinuXDDLgR7Oe8LY/giphy.gif?cid=ecf05e47ukje6epyaaupe6ulmjkjbdcjuwg2ramhuuqygnv1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93ZGxyYjByYjdsd3V6MmRuMTZxNDgxd3htY2xtdHMzdzN0eTlobSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sbrqfuotRaQefJCQ4p/giphy.gif" width="70">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFjdHY0aXc3ZnA2dzRra3I3YWpmZWk1djl3b2c0N3ljNGhtZXgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/uqLHogKfKSLkopGGIa/giphy.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+  <img src="https://media.giphy.com/media/lRNinuXDDLgR7Oe8LY/giphy.gif?cid=ecf05e47ukje6epyaaupe6ulmjkjbdcjuwg2ramhuuqygnv1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93ZGxyYjByYjdsd3V6MmRuMTZxNDgxd3htY2xtdHMzdzN0eTlobSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sbrqfuotRaQefJCQ4p/giphy.gif" width="60">
 </div>
 
 ### 🧠 AI & ML
